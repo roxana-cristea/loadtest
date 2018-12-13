@@ -20,7 +20,8 @@
 		"stdio": "^0.2.3",
 		"testing": "^1.1.1",
 		"websocket": "^1.0.22",
-		"https-proxy-agent": "^2.2.1"
+		"https-proxy-agent": "^2.2.1",
+		"uuid": "^3.3.2"
 	},
 	"devDependencies": {
 		"eslint": "^4.19.1"
